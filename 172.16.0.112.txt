@@ -1,0 +1,5 @@
+172.16.0.112
+
+conda create -n lip python=3.9
+
+conda activate lip
